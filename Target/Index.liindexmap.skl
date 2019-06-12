@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>Product A</Key>
+        <OldValue>Product A</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Article 1</Key>
+        <OldValue>Article 1</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Article 2</Key>
+        <OldValue>Article 2</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Article 3</Key>
+        <OldValue>Article 3</OldValue>
+        <NewValue>砻קยด4ตว融</NewValue>
+    </Entry>
+</StringMap>

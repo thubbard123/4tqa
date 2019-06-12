@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Article</Key>
+  <OldValue>Article</OldValue>
+  <NewValue>Article</NewValue>
+</Entry>
+</StringMap>

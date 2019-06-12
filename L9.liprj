@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="sq" xml:lang="sq" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="932477bf-591c-4c14-b365-ccc4f2a91375">
+    <ProjectFile Source="Target/Flare-diff1.flprj" Target="Target/Flare-diff1.flprj" />
+</LingoProject>

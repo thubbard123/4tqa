@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName">砻קยด1ตว融</Variable>
+    <Variable Comment="" Name="PhoneNumber">砻קยด2ตว融</Variable>
+    <Variable Name="ProductA" Comment="" Definition="Some text">砻קยด3ตว融</Variable>
+    <Variable Name="Year" Comment="" Type="DateTime" LastUpdated="2015-12-31T09:27:22.4850702-08:00" EvaluatedDefinition="yyyy">砻קยด4ตว融</Variable>
+</CatapultVariableSet>

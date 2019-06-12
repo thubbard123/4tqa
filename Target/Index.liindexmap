@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Product A</Key>
+  <OldValue>Product A</OldValue>
+  <NewValue>Product A</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Article 1</Key>
+  <OldValue>Article 1</OldValue>
+  <NewValue>Article 1</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Article 2</Key>
+  <OldValue>Article 2</OldValue>
+  <NewValue>Article 2</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Article 3</Key>
+  <OldValue>Article 3</OldValue>
+  <NewValue>Article 3</NewValue>
+</Entry>
+</StringMap>
